@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.MuiContainer-root.MuiContainer-maxWidthSm {
+  margin-top: 85px;
+}
+
+.MuiTypography-root.MuiTypography-body1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 75vh !important;
+}
+
+.MuiFormControl-root.MuiTextField-root.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+  margin-left: 45px;
+}
+
+.Poke-Data {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid #000;
+  padding: 1px;
+  margin: 10px;
+  box-shadow: 0px 0px 50px -10px #00000047;
+}
+
+.Poke-Img {
+  padding: 15px;
+  background-color: cornflowerblue;
+}
+
+.Poke-Img img {
+  width: 165px;
+}
+
+.Poke-Content {
+  padding: 15px;
+  background-color: whitesmoke;
+}
